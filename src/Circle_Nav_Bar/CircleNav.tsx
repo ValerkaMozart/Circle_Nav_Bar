@@ -11,7 +11,7 @@ let CircleNav: React.FC = () => {
                 <ul>
                     <li>
                         <a href="#title">
-                            <span>Welcome on Tomatobil.com online platform! <strong>WHO WE ARE?</strong> </span>
+                            <span><small>Welcome on </small>  Tomatobil.com <small>online platform! </small>   <strong>WHO WE ARE?</strong> </span>
                         </a>
                     </li>
                     <li>
@@ -27,7 +27,7 @@ let CircleNav: React.FC = () => {
                         <a href="#title"> <span>Where to begin</span> </a>
                     </li>
                     <li>
-                        <a href="#title"> <span>Contact us and get support</span> </a>
+                        <a href="#title"> <span>Contact <br></br> us and get support</span> </a>
                     </li>
                     <li>
                     </li>
